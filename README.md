@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Solano</h1>
 <h3 align="center">Soy un desarrollador Backend en formación. Me apasiona la arquitectura de software y la optimización del rendimiento en el backend.</h3>
 
-- 🔭 I’m currently working on [Pong video game in C#](https://github.com/EmersonJPJ/Pong)
+- 🔭 I’m currently working on [ChatBot pdf reader in python](https://github.com/EmersonJPJ/ChatbotPDFReader)
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmersonJPJ](https://github.com/EmersonJPJ)
 
